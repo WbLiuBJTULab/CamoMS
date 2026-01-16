@@ -1,0 +1,1 @@
+The checkpoint files generated during the training process will be saved in this folder.

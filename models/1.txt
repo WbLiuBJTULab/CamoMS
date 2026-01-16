@@ -1,0 +1,2 @@
+Please move the pretrained model weights into this folder.
+For example, smt_base.pth.
