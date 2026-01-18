@@ -4,15 +4,15 @@ This code is for Camouflage Object Detection.
 
 ## Prepare Data
 
-The training and testing datasets can be downloaded at [data](https://github.com/Garyson1204/HGINet?tab=readme-ov-file#prepare-data).
+The training and testing datasets can be downloaded at [data](https://github.com/Garyson1204/HGINet?tab=readme-ov-file#prepare-data) which from [HGINet(TIP 2024)](https://github.com/Garyson1204/HGINet).
 
 ## Pretrained Model
 
-Download the SMT from [model](https://pan.baidu.com/s/1BBgnJxONOTxL1dbAyMjnEA) with the fetch code: camo.
+Download the SMT-T from [model](https://github.com/AFeng-x/SMT/releases/download/v1.0.0/smt_base.pth).
 
 ## Camouflage Object Detection Results
 
-Download the prediction maps from [results](https://pan.baidu.com/s/1BBgnJxONOTxL1dbAyMjnEA) with the fetch code: camo.
+Download the prediction maps from [results](https://pan.baidu.com/s/1TcE8jMabuiFjXV69nrbLRA?pwd=camo) with the fetch code: camo.
 
 ## Installation
 
