@@ -8,7 +8,7 @@ The training and testing datasets can be downloaded at [data](https://github.com
 
 ## Pretrained Model
 
-Download the SMT-T from [model](https://github.com/AFeng-x/SMT/releases/download/v1.0.0/smt_base.pth).
+Download the SMT from [model](https://github.com/AFeng-x/SMT/releases/download/v1.0.0/smt_base.pth).
 
 ## Camouflage Object Detection Results
 
